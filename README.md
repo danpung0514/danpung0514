@@ -32,7 +32,7 @@
   - **CI/CD**: GitHub Actions & AWS EC2 연계 배포 자동화 파이프라인 구축
   - **성능 최적화**: N+1 쿼리 해결(Batch Loading), 비관적 잠금(Pessimistic Locking)을 통한 동시성 제어
   - **Full-Stack**: 숙소/객실/이미지 관리 도메인 End-to-End 개발
-- **배포 URL**: [https://staylog.store](https://staylog.store)
+- **배포 URL**: [https://staylog.store](https://staylog.store) (2026-02-15 배포 중단)
 
 ---
 
